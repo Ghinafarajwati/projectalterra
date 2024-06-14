@@ -1,0 +1,15 @@
+.picsGallery {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 115px;
+    margin-right: 115px;
+    margin-bottom: 100px;
+}
+.pics img {
+    width: 350px;
+    height: 250px;
+    padding: 12px;
+    border-radius: 20px;
+    object-fit: cover;
+} 

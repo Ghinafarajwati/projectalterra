@@ -1,0 +1,161 @@
+/* REGISTER EVENT */
+.home {
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  column-gap: 5em;
+  top: -42px;
+  left: 2%;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+.inputBooking-data {
+  background-color: #3b3b3b;
+  border-radius: 15px;
+  padding: 20px 60px 25px 60px;
+  margin-bottom: 350px;
+  border: 1px solid rgb(251, 159, 47);
+}
+.inputBooking-data h2 {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.inputEdit-data {
+  background-color: #3b3b3b;
+  border-radius: 15px;
+  padding: 20px 60px 25px 60px;
+  margin-bottom: 350px;
+  margin-left: 80px;
+  border: 1px solid rgb(251, 159, 47);
+}
+.inputEdit-data h2 {
+  text-align: center;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.btn {
+  position: absolute;
+  left: 360px;
+  top: 20px;
+  padding: 7px 15px;
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  background-color: rgb(251, 159, 47);
+}
+.buttonInputan {
+  padding: 7px 20px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  background-color: rgb(251, 159, 47);
+  position: absolute;
+  left: 365px;
+  margin-top: 18px;
+}
+.daftarPeserta {
+  position: absolute;
+  top: 70%;
+  left: 16%;
+}
+
+
+/* EDIT */
+.selectnewdata {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  padding: 4px 86px 4px 86px;
+  border: none;
+  border-radius: 7px;
+  background-color: #676767;
+  color: rgb(181, 181, 181);
+}
+.btnSatu {
+  padding: 7px 25px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  background-color: rgb(251, 159, 47);
+  margin-top: 10px;
+  margin-left: 65px;
+}
+
+
+/* LIST ITEM */
+.list{
+  background-color: #4a4a4a;
+}
+.removeBorder {
+  border: none;
+}
+.Inputbtn {
+  padding: 7px 20px;
+  margin-left: 5px;
+  margin-right: 22px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  background-color: rgb(251, 159, 47);
+}
+
+
+/* LIST PASSENGER */
+.listPassenger {
+  border-collapse: collapse;
+  color: white;
+  text-align: center;
+}
+
+
+/* PASSENGER INPUT */
+.input-text {
+  padding: 4px 20px 4px 20px;
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  background-color: #676767;
+  border: none;
+  color: rgb(255, 255, 255);
+}
+.event-select {
+  width: 240px;
+  padding: 4px 0px 4px 15px;
+  border: none;
+  border-radius: 7px;
+  background-color: #676767;
+  color: rgb(181, 181, 181);
+  margin-bottom: 15px;
+}
+.buttonInput {
+  padding: 7px 30px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  background-color: rgb(251, 159, 47);
+  margin-left: 65px;
+  margin-top: 10px;
+}
+td {
+  border: 1px solid rgb(251, 159, 47);
+  padding: 7px 20px;
+}
+

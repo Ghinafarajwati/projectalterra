@@ -1,0 +1,22 @@
+.picsTrav {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 120px;
+    margin-right: 135px;
+    margin-bottom: 100px;
+}
+.travImg {
+    background-color: rgb(144, 144, 144);
+}
+.travImg img {
+    width: 230px;
+    height: 180px;
+    object-fit: cover;
+} 
+.travImg img:hover {
+    transform: scale(1.1);
+}
+.travtitle {
+    letter-spacing: 2px;
+}
